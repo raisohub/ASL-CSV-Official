@@ -1,6 +1,6 @@
-This GitHub repo was adapted from the following GitHub repository: [https://github.com/mg343/Sign-Language-Detection]([url](https://github.com/mg343/Sign-Language-Detection)). Any credit to this repository should be directed towards that one.
+This GitHub repo was adapted from the following GitHub repository: [https://github.com/mg343/Sign-Language-Detection](https://github.com/mg343/Sign-Language-Detection). Any credit to this repository should be directed towards that one.
 
-The model in this repository is also trained using the followign Kaggle dataset: [https://www.kaggle.com/datasets/datamunge/sign-language-mnist](url)
+The model in this repository is also trained using the following Kaggle dataset: [https://www.kaggle.com/datasets/datamunge/sign-language-mnist](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 
 # Introduction #
 
