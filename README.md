@@ -21,7 +21,7 @@ The next section of this README will go over how to run the code.
 The following will be required to run the code for this project:
 - An editor to edit code (in production VSCode was used)
 - Python (preferably the latest version)
-- pip to install packages (you can read the instructions here to install it: [https://pip.pypa.io/en/stable/installation/](url))
+- pip to install packages (you can read the instructions here to install it: [https://pip.pypa.io/en/stable/installation/](https://pip.pypa.io/en/stable/installation/))
 
 ## Step 1: Pulling the GitHub Repository ##
 
