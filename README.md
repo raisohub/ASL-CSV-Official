@@ -11,6 +11,7 @@ As a broad overview, this GitHub repository contains the following files:
 - `model.py`, which contains the code to train and save the model
 - `requirements.txt`, which contains the libraries needed to run the code
 - `Winter Coding Exercise.ipynb`, which contains the exercises from the penultimate meeting of the workshop series
+- If you receive an error regarding conda, we recommend setting up a conda environment, which will allow you to isolate your libraries to the project. The details for how to use and install conda can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
 The next section of this README will go over how to run the code.
 
